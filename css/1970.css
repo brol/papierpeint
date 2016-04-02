@@ -2,7 +2,7 @@
 # -- BEGIN LICENSE BLOCK ----------------------------------
 #
 # Copyright (c) 2008 Steven Tlucek
-#
+# Contributor: Pierre Van Glabeke
 # This work is licensed under the Creative Commons
 # Attribution-Share Alike 3.0 Unported License.
 # To view a copy of this license, visit
@@ -20,7 +20,10 @@ a {
 	color : #E09315;
 }
 #top {
-	background : transparent url(../img_1970/top.png) no-repeat 0 100%;
+	background : #fff;
+}
+#top h1 {
+  background: #E3CF22;
 }
 #top h1 a {
 	color : #FBFAF0;
@@ -35,14 +38,13 @@ a {
 	color : #747F36;
 }
 #wrapper {
-	background : url(../img_1970/sidebar.png) repeat-y;
+	background : #fff;
 }
 #content-info h2 {
 	color : #E09315;
 }
 #footer {
 	color : #586221;
-	background : url(../img_1970/footer.png) no-repeat 0 0;
 }
 #footer a {
 	color : #586221;
@@ -51,7 +53,7 @@ a {
 	color : #747F36;
 }
 #sidebar {
-	background : url(../img_1970/sidebar_top.png) no-repeat top right;
+	background : #f6f5f0;
 }
 #sidebar a {
 	color : #E09315;

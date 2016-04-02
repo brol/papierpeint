@@ -2,7 +2,7 @@
 # -- BEGIN LICENSE BLOCK ----------------------------------
 #
 # Copyright (c) 2008 Steven Tlucek
-#
+# Contributor: Pierre Van Glabeke
 # This work is licensed under the Creative Commons
 # Attribution-Share Alike 3.0 Unported License.
 # To view a copy of this license, visit

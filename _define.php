@@ -2,7 +2,7 @@
 # -- BEGIN LICENSE BLOCK ----------------------------------
 #
 # Copyright (c) 2008 Steven Tlucek
-#
+# Contributor: Pierre Van Glabeke
 # This work is licensed under the Creative Commons
 # Attribution-Share Alike 3.0 Unported License.
 # To view a copy of this license, visit
@@ -17,8 +17,9 @@ $this->registerModule(
 	/* Name */			"Papier Peint",
 	/* Description*/		"Papier Peint, from 30's, 50's and 70's",
 	/* Author */			"Steven Tlucek, Pierre Van Glabeke",
-	/* Version */			'1.4',
+	/* Version */			'1.5',
 	array(
-		'type'		=>		'theme'
+		'type'		=>		'theme',
+		'tplset' => 'mustek'
 	)
 );
